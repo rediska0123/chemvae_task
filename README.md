@@ -8,4 +8,4 @@
 git submodule update --init --recursive
 ```
 
-Перед запуском необходимо выполнить инструкции **How to install** из [chemical_vae](https://github.com/aspuru-guzik-group/chemical_vae).
+Перед запуском необходимо выполнить инструкции **How to install** из [chemical_vae](https://github.com/aspuru-guzik-group/chemical_vae) из папки `chemvae_task/chemical_vae/`.
